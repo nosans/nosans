@@ -1,7 +1,7 @@
 ## Hi there 👋
 🔭working on everything and nothing !
 ⚡no context : did you know that cats sleep 65% of their lives ? If no, now you know !
-Anyways, have a greaet day !
+Anyways, have a great day !
 
 <!--
 **nosans/nosans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
